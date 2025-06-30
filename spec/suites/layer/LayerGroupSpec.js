@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿describe('LayerGroup', () => {
 	describe('#hasLayer', () => {
 		it('throws when called without proper argument', () => {

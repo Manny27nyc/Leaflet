@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 import {Bounds} from '../../geometry/Bounds.js';
 import {LatLng} from '../LatLng.js';

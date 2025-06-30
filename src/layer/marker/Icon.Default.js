@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Icon} from './Icon.js';
 import * as DomUtil from '../../dom/DomUtil.js';
 

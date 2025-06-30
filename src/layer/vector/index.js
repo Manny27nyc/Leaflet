@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export {Renderer} from './Renderer.js';
 export {Canvas, canvas} from './Canvas.js';
 import {SVG, create, pointsToPath, svg} from './SVG.js';

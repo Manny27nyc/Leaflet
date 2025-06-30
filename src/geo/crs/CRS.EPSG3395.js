@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Earth} from './CRS.Earth.js';
 import {Mercator} from '../projection/Projection.Mercator.js';
 import {toTransformation} from '../../geometry/Transformation.js';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Layer} from './Layer.js';
 import * as Util from '../core/Util.js';
 import {toLatLngBounds} from '../geo/LatLngBounds.js';

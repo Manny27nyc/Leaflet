@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Icon} from './Icon.js';
 export {icon} from './Icon.js';
 import {IconDefault} from './Icon.Default.js';

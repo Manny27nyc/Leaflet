@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export {Point, toPoint as point} from './Point.js';
 export {Bounds, toBounds as bounds} from './Bounds.js';
 export {Transformation, toTransformation as transformation} from './Transformation.js';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Map} from './Map.js';
 import {BoxZoom} from './handler/Map.BoxZoom.js';
 Map.BoxZoom = BoxZoom;

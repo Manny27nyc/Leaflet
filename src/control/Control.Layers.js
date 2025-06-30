@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 import {Control} from './Control.js';
 import * as Util from '../core/Util.js';

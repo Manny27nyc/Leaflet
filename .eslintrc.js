@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /** @type {import('eslint').Linter.Config } */
 module.exports = {
 	ignorePatterns: [

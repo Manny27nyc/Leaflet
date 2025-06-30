@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Point, toPoint} from './Point.js';
 import {toLatLng} from '../geo/LatLng.js';
 import {centroid} from './PolyUtil.js';

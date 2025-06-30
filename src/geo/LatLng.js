@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as Util from '../core/Util.js';
 import {Earth} from './crs/CRS.Earth.js';
 import {toLatLngBounds} from './LatLngBounds.js';

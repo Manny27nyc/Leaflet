@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Class} from '../../core/Class.js';
 import {setOptions} from '../../core/Util.js';
 import {toPoint as point} from '../../geometry/Point.js';

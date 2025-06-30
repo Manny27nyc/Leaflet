@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {TileLayer} from './TileLayer.js';
 import {extend, setOptions, getParamString} from '../../core/Util.js';
 import Browser from '../../core/Browser.js';

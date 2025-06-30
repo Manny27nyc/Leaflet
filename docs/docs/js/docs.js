@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* global hljs */
 hljs.configure({tabReplace: '    '});
 hljs.initHighlighting();

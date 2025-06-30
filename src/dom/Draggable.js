@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Evented} from '../core/Events.js';
 import Browser from '../core/Browser.js';
 import * as DomEvent from './DomEvent.js';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {CircleMarker} from './CircleMarker.js';
 import {Path} from './Path.js';
 import * as Util from '../../core/Util.js';

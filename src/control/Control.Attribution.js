@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 import {Control} from './Control.js';
 import {Map} from '../map/Map.js';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('Point', () => {
 	describe('constructor', () => {
 		it('creates a point with the given x and y', () => {

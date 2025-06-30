@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as L from './Leaflet.js';
 export * from './Leaflet.js';
 

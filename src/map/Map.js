@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as Util from '../core/Util.js';
 import {Evented} from '../core/Events.js';
 import {EPSG3857} from '../geo/crs/CRS.EPSG3857.js';

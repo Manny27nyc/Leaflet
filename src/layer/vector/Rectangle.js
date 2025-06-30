@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Polygon} from './Polygon.js';
 import {toLatLngBounds} from '../../geo/LatLngBounds.js';
 

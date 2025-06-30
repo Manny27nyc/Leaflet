@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('ImageOverlay', () => {
 	let container, map;
 	const imageBounds = [[40.712216, -74.22655], [40.773941, -74.12544]];

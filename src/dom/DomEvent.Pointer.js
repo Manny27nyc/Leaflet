@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {falseFn} from '../core/Util.js';
 
 const pEvent = {

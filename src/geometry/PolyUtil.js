@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as LineUtil from './LineUtil.js';
 import {toLatLng} from '../geo/LatLng.js';
 import {toPoint} from './Point.js';

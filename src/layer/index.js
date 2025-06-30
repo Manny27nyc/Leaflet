@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export {Layer} from './Layer.js';
 export {LayerGroup, layerGroup} from './LayerGroup.js';
 export {FeatureGroup, featureGroup} from './FeatureGroup.js';

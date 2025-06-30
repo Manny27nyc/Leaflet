@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('L.GeoJSON', () => {
 	describe('addData', () => {
 		const geojson = {

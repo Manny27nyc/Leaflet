@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Path} from './Path.js';
 import * as Util from '../../core/Util.js';
 import {toLatLng} from '../../geo/LatLng.js';

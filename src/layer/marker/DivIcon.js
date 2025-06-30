@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Icon} from './Icon.js';
 import {toPoint as point} from '../../geometry/Point.js';
 

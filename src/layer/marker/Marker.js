@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Layer} from '../Layer.js';
 import {IconDefault} from './Icon.Default.js';
 import * as Util from '../../core/Util.js';

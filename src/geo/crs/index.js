@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {CRS} from './CRS.js';
 import {Earth} from './CRS.Earth.js';
 import {EPSG3395} from './CRS.EPSG3395.js';

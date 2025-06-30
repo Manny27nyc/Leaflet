@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export {LatLng, toLatLng as latLng} from './LatLng.js';
 export {LatLngBounds, toLatLngBounds as latLngBounds} from './LatLngBounds.js';
 

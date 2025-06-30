@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {CRS} from './CRS.js';
 import * as Util from '../../core/Util.js';
 

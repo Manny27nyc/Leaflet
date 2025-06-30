@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 expect.Assertion.prototype.near = function (expected, delta) {
 	expected = L.point(expected);
 	delta = delta || 1;

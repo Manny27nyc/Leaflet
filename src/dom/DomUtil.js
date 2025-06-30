@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as DomEvent from './DomEvent.js';
 import {Point} from '../geometry/Point.js';
 

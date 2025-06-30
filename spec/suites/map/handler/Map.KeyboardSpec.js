@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('Map.Keyboard', () => {
 	const KEYCODE_LOWERCASE_A = 'KeyA';
 	const KEYCODE_ARROW_LEFT = 'ArrowLeft';

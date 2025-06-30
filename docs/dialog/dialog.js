@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const SESSION_KEY = 'dialog-session';
 const ONE_DAY_MILLI_SEC = 24 * 60 * 60 * 1000;
 

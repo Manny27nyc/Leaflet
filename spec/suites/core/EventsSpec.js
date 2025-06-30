@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('Events', () => {
 	describe('#fireEvent', () => {
 		it('fires all listeners added through #addEventListener', () => {

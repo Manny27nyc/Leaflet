@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 if (document.body.className.indexOf('api-page') !== -1) {
 
 	let elems = document.querySelectorAll('h2, h3, h4, tr');

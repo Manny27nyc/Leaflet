@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('VideoOverlay', () => {
 	let container, map;
 	const videoBounds = L.latLngBounds([[32, -130], [13, -100]]);

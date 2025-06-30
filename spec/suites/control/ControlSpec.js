@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('Control', () => {
 	function onAdd() {
 		return L.DomUtil.create('div', 'leaflet-test-control');

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 describe('Popup', () => {
 	let container, map;
 	const center = [55.8, 37.6];

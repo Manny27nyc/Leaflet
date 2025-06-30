@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {DivOverlay} from './DivOverlay.js';
 import {toPoint} from '../geometry/Point.js';
 import {Map} from '../map/Map.js';

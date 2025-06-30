@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Map} from '../../map/Map.js';
 import {canvas} from './Canvas.js';
 import {svg} from './SVG.js';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Point} from '../geometry/Point.js';
 import * as Util from '../core/Util.js';
 import Browser from '../core/Browser.js';

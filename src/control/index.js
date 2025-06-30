@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Control, control} from './Control.js';
 import {Layers, layers} from './Control.Layers.js';
 import {Zoom, zoom} from './Control.Zoom.js';

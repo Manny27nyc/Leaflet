@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {Polyline} from './Polyline.js';
 import {LatLng} from '../../geo/LatLng.js';
 import * as LineUtil from '../../geometry/LineUtil.js';

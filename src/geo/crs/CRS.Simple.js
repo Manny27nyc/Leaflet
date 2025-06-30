@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {CRS} from './CRS.js';
 import {LonLat} from '../projection/Projection.LonLat.js';
 import {toTransformation} from '../../geometry/Transformation.js';
